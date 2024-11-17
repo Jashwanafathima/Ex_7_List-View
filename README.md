@@ -1,9 +1,13 @@
 ## Ex.No:7 Develop an android application to display the country name with image using list view in android studio.
 ## PROGRAM:
-## Program to print the list of item.
-## Developed by: Jashwana Fathima S
-#  Registeration Number : 212222040059
-#  Date: 30.09.2024
+Program to print the list of item.
+
+Developed by: Jashwana Fathima S
+
+Registeration Number : 212222040059
+
+Date: 30.09.2024
+
 ## AIM:
 To create and develop the application to display the place name with image using list view in android studio
 
